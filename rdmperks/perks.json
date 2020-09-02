@@ -1,0 +1,610 @@
+{
+    "survivor": [
+        {
+            "title": "",
+            "img": "iconPerks_adrenaline.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_balancedLanding.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_botanyKnowledge.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_bond.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_calmSpirit.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_darkSense.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_dejaVu.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_empathy.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_hope.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_ironWill.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_kindred.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_leader.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_lightweight.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_noOneLeftBehind.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_plunderersInstinct.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_premonition.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_proveThyself.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_resilience.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_saboteur.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_selfCare.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_slipperyMeat.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_smallGame.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_spineChill.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_sprintBurst.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_streetwise.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_thisIsNotHappening.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_urbanEvasion.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_wellMakeIt.png"
+        },
+        {
+            "title": "",
+            "img": "Ash/iconPerks_buckleUp.png"
+        },
+        {
+            "title": "",
+            "img": "Ash/iconPerks_flipFlop.png"
+        },
+        {
+            "title": "",
+            "img": "Ash/iconPerks_mettleOfMan.png"
+        },
+        {
+            "title": "",
+            "img": "DLC2/iconPerks_decisiveStrike.png"
+        },
+        {
+            "title": "",
+            "img": "DLC2/iconPerks_objectOfObsession.png"
+        },
+        {
+            "title": "",
+            "img": "DLC2/iconPerks_soleSurvivor.png"
+        },
+        {
+            "title": "",
+            "img": "DLC3/iconPerks_aceInTheHole.png"
+        },
+        {
+            "title": "",
+            "img": "DLC3/iconPerks_openHanded.png"
+        },
+        {
+            "title": "",
+            "img": "DLC3/iconPerks_upTheAnte.png"
+        },
+        {
+            "title": "",
+            "img": "DLC4/iconPerks_alert.png"
+        },
+        {
+            "title": "",
+            "img": "DLC4/iconPerks_lithe.png"
+        },
+        {
+            "title": "",
+            "img": "DLC4/iconPerks_technician.png"
+        },
+        {
+            "title": "",
+            "img": "DLC5/iconPerks_DeadHard.png"
+        },
+        {
+            "title": "",
+            "img": "DLC5/iconPerks_NoMither.png"
+        },
+        {
+            "title": "",
+            "img": "DLC5/iconPerks_WereGonnaLiveForever.png"
+        },
+        {
+            "title": "",
+            "img": "England/iconPerks_pharmacy.png"
+        },
+        {
+            "title": "",
+            "img": "England/iconPerks_vigil.png"
+        },
+        {
+            "title": "",
+            "img": "England/iconPerks_wakeUp.png"
+        },
+        {
+            "title": "",
+            "img": "Finland/iconPerks_detectivesHunch.png"
+        },
+        {
+            "title": "",
+            "img": "Finland/iconPerks_stakeOut.png"
+        },
+        {
+            "title": "",
+            "img": "Finland/iconPerks_tenacity.png"
+        },
+        {
+            "title": "",
+            "img": "Haiti/iconPerks_autodidact.png"
+        },
+        {
+            "title": "",
+            "img": "Haiti/iconPerks_deliverance.png"
+        },
+        {
+            "title": "",
+            "img": "Haiti/iconPerks_diversion.png"
+        },
+        {
+            "title": "",
+            "img": "Kate/iconPerks_boilOver.png"
+        },
+        {
+            "title": "",
+            "img": "Kate/iconPerks_danceWithMe.png"
+        },
+        {
+            "title": "",
+            "img": "Kate/iconPerks_windowsOfOpportunity.png"
+        },
+        {
+            "title": "",
+            "img": "Kenya/iconPerks_aftercare.png"
+        },
+        {
+            "title": "",
+            "img": "Kenya/iconPerks_breakdown.png"
+        },
+        {
+            "title": "",
+            "img": "Kenya/iconPerks_discordance.png"
+        },
+        {
+            "title": "",
+            "img": "Kenya/iconPerks_distortion.png"
+        },
+        {
+            "title": "",
+            "img": "L4D/iconPerks_borrowedTime.png"
+        },
+        {
+            "title": "",
+            "img": "L4D/iconPerks_leftBehind.png"
+        },
+        {
+            "title": "",
+            "img": "L4D/iconPerks_unbreakable.png"
+        },
+        {
+            "title": "",
+            "img": "Mali/iconPerks_headOn.png"
+        },
+        {
+            "title": "",
+            "img": "Mali/iconPerks_poised.png"
+        },
+        {
+            "title": "",
+            "img": "Mali/iconPerks_solidarity.png"
+        },
+        {
+            "title": "",
+            "img": "Qatar/iconPerks_babySitter.png"
+        },
+        {
+            "title": "",
+            "img": "Qatar/iconPerks_betterTogether.png"
+        },
+        {
+            "title": "",
+            "img": "Qatar/iconPerks_camaraderie.png"
+        },
+        {
+            "title": "",
+            "img": "Qatar/iconPerks_fixated.png"
+        },
+        {
+            "title": "",
+            "img": "Qatar/iconPerks_innerStrength.png"
+        },
+        {
+            "title": "",
+            "img": "Qatar/iconPerks_secondWind.png"
+        },
+        {
+            "title": "",
+            "img": "Sweden/iconPerks_anyMeansNecessary.png"
+        },
+        {
+            "title": "",
+            "img": "Sweden/iconPerks_breakout.png"
+        },
+        {
+            "title": "",
+            "img": "Sweden/iconPerks_luckyBreak.png"
+        },
+        {
+            "title": "",
+            "img": "Ukraine/iconPerks_forThePeople.png"
+        },
+        {
+            "title": "",
+            "img": "Ukraine/iconPerks_offTheRecord.png"
+        },
+        {
+            "title": "",
+            "img": "Ukraine/iconPerks_redHerring.png"
+        },
+        {
+            "title": "",
+            "img": "Wales/iconPerks_bloodPact.png"
+        },
+        {
+            "title": "",
+            "img": "Wales/iconPerks_repressedAlliance.png"
+        },
+        {
+            "title": "",
+            "img": "Wales/iconPerks_soulGuard.png"
+        }
+    ],
+    "killer": [
+        {
+            "title": "",
+            "img": "iconPerks_agitation.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_aNursesCalling.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_bitterMurmur.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_bloodhound.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_brutalStrength.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_deerstalker.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_distressing.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_enduring.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_insidious.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_ironGrasp.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_lightborn.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_monstrousShrine.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_noOneEscapesDeath.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_predator.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_shadowborn.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_sloppyButcher.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_spiesFromTheShadows.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_stridor.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_thatanophobia.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_tinkerer.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_unnervingPresence.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_unrelenting.png"
+        },
+        {
+            "title": "",
+            "img": "iconPerks_whispers.png"
+        },
+        {
+            "title": "",
+            "img": "Cannibal/iconPerks_BBQAndChili.png"
+        },
+        {
+            "title": "",
+            "img": "Cannibal/iconPerks_franklinsLoss.png"
+        },
+        {
+            "title": "",
+            "img": "Cannibal/iconPerks_knockOut.png"
+        },
+        {
+            "title": "",
+            "img": "DLC2/iconPerks_dyingLight.png"
+        },
+        {
+            "title": "",
+            "img": "DLC2/iconPerks_playWithYourFood.png"
+        },
+        {
+            "title": "",
+            "img": "DLC2/iconPerks_saveTheBestForLast.png"
+        },
+        {
+            "title": "",
+            "img": "DLC3/iconPerks_devourHope.png"
+        },
+        {
+            "title": "",
+            "img": "DLC3/iconPerks_ruin.png"
+        },
+        {
+            "title": "",
+            "img": "DLC3/iconPerks_theThirdSeal.png"
+        },
+        {
+            "title": "",
+            "img": "DLC3/iconPerks_thrillOfTheHunt.png"
+        },
+        {
+            "title": "",
+            "img": "DLC4/iconPerks_generatorOvercharge.png"
+        },
+        {
+            "title": "",
+            "img": "DLC4/iconPerks_monitorAndAbuse.png"
+        },
+        {
+            "title": "",
+            "img": "DLC4/iconPerks_overwhelmingPresence.png"
+        },
+        {
+            "title": "",
+            "img": "DLC5/iconPerks_BeastOfPrey.png"
+        },
+        {
+            "title": "",
+            "img": "DLC5/iconPerks_HuntressLullaby.png"
+        },
+        {
+            "title": "",
+            "img": "DLC5/iconPerks_TerritorialImperative.png"
+        },
+        {
+            "title": "",
+            "img": "England/iconPerks_bloodWarden.png"
+        },
+        {
+            "title": "",
+            "img": "England/iconPerks_fireUp.png"
+        },
+        {
+            "title": "",
+            "img": "England/iconPerks_rememberMe.png"
+        },
+        {
+            "title": "",
+            "img": "Finland/iconPerks_hangmansTrick.png"
+        },
+        {
+            "title": "",
+            "img": "Finland/iconPerks_makeYourChoice.png"
+        },
+        {
+            "title": "",
+            "img": "Finland/iconPerks_surveillance.png"
+        },
+        {
+            "title": "",
+            "img": "Guam/iconPerks_bamboozle.png"
+        },
+        {
+            "title": "",
+            "img": "Guam/iconPerks_coulrophobia.png"
+        },
+        {
+            "title": "",
+            "img": "Guam/iconPerks_popGoesTheWeasel.png"
+        },
+        {
+            "title": "",
+            "img": "Haiti/iconPerks_hatred.png"
+        },
+        {
+            "title": "",
+            "img": "Haiti/iconPerks_hauntedGround.png"
+        },
+        {
+            "title": "",
+            "img": "Haiti/iconPerks_spiritFury.png"
+        },
+        {
+            "title": "",
+            "img": "Kenya/iconPerks_ironMaiden.png"
+        },
+        {
+            "title": "",
+            "img": "Kenya/iconPerks_madGrit.png"
+        },
+        {
+            "title": "",
+            "img": "Mali/iconPerks_corruptIntervention.png"
+        },
+        {
+            "title": "",
+            "img": "Mali/iconPerks_darkDevotion.png"
+        },
+        {
+            "title": "",
+            "img": "Mali/iconPerks_infectiousFright.png"
+        },
+        {
+            "title": "",
+            "img": "Oman/iconPerks_furtiveChase.png"
+        },
+        {
+            "title": "",
+            "img": "Oman/iconPerks_imAllEars.png"
+        },
+        {
+            "title": "",
+            "img": "Oman/iconPerks_thrillingTremors.png"
+        },
+        {
+            "title": "",
+            "img": "Qatar/iconPerks_cruelConfinement.png"
+        },
+        {
+            "title": "",
+            "img": "Qatar/iconPerks_mindBreaker.png"
+        },
+        {
+            "title": "",
+            "img": "Qatar/iconPerks_surge.png"
+        },
+        {
+            "title": "",
+            "img": "Sweden/iconPerks_bloodEcho.png"
+        },
+        {
+            "title": "",
+            "img": "Sweden/iconPerks_nemesis.png"
+        },
+        {
+            "title": "",
+            "img": "Sweden/iconPerks_zanshinTactics.png"
+        },
+        {
+            "title": "",
+            "img": "Ukraine/iconPerks_deadManSwitch.png"
+        },
+        {
+            "title": "",
+            "img": "Ukraine/iconPerks_gearHead.png"
+        },
+        {
+            "title": "",
+            "img": "Ukraine/iconPerks_hexRetribution.png"
+        },
+        {
+            "title": "",
+            "img": "Wales/iconPerks_deathbound.png"
+        },
+        {
+            "title": "",
+            "img": "Wales/iconPerks_forcedPenance.png"
+        },
+        {
+            "title": "",
+            "img": "Wales/iconPerks_trailOfTorment.png"
+        }
+    ]
+}
